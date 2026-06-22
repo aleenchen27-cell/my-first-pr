@@ -4,7 +4,7 @@ This is a practice repository for learning the pull request workflow.
 
 ## About
 
-Welcome! This project exists to help you learn how to make your firts pull request.
+Welcome! This project exists to help you learn how to make your first pull request.
 
 ## Steps
 
